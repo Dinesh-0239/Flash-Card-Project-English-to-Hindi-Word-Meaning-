@@ -10,3 +10,5 @@ button will clicked then card fliped and shows hindi meaning of the the frunt en
 proceed to the next word and the word whose checkmark had clicked will be removed from the data and remaining will be in
 the to_learn dataframe.
 If none of the button will be clicked it will considered as cross button is clicked. The program wait for 3 seconds only.
+
+![image](https://github.com/Dinesh-0239/Flash-Card-Project-English-to-Hindi-Word-Meaning-/assets/114934305/62a68b6f-e84c-4123-8c3c-c0f13a2ab0cb)
